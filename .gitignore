@@ -2,6 +2,7 @@
 /public/hot
 /public/storage
 /vendor
+/storage/framework/cache
 /logs
 /bootstrap/cache
 !/storage/app/public
